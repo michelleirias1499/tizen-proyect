@@ -1,8 +1,8 @@
 import React from 'react';
 import './App.css';
-import Row from './Row';
+import Row from './components/Row';
 import requests from './api/requests';
-import Home from './Home';
+import Home from './components/Home';
 
 function App() {
   return (
